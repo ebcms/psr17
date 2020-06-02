@@ -1,6 +1,6 @@
 {
-    "name": "ebcms/psr7",
-    "description": "ebcms psr7",
+    "name": "ebcms/psr17",
+    "description": "ebcms psr17",
     "type": "library",
     "require": {
         "psr/http-message": "^1.0",
