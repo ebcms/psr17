@@ -1,0 +1,22 @@
+{
+    "name": "ebcms/psr7",
+    "description": "ebcms psr7",
+    "type": "library",
+    "require": {
+        "psr/http-message": "^1.0",
+        "psr/http-factory": "^1.0",
+        "guzzlehttp/psr7": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ebcms",
+            "email": "1540837821@qq.com"
+        }
+    ]
+}
